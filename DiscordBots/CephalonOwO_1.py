@@ -8,7 +8,7 @@ from io import BytesIO
 import aiohttp
 
 BOT_PREFIX=("??","!!","?")
-TOKEN = 'Nzc5OTU1ODU0MzI4OTg3NjU4.X7oEfg.2Nqt-XAy2sAkxzvuHazBeN_-4u4'
+TOKEN = '' #use ur token
 
 client = Bot(command_prefix=BOT_PREFIX)
 
